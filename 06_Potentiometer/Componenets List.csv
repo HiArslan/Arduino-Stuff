@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1, U2",2," Arduino Uno R3"
+"Rpot1",1,"1 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"D1",1,"Red LED"
+"Rpot2",1,"250 kΩ Potentiometer"
